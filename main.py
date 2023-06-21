@@ -3,7 +3,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 from button import bosh_menu, Yunusobod_hotels_keyboard, Chilonzo_hotels_keyboard, Olmazor_hotels_keyboard, MirzoUlugbek_hotels_keyboard, shayxontoxur_hotels_keyboard
 
-API_TOKEN = '6284110724:AAFjF0AjoXFLXRdzZ_7M8WkRHvR7_lqD7Cs'
+API_TOKEN = '6284110724:AAHxxlHOORSQIKk7p92udK22Caf-77aRgo8'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
